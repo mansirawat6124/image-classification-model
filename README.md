@@ -16,3 +16,4 @@ This code imports the PyTorch library (torch) and checks if it is installed corr
 
 # output
 
+![Image](https://github.com/user-attachments/assets/b0072ae2-90d9-465b-b924-15fa4d965374)
